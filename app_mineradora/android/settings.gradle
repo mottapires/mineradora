@@ -16,4 +16,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "app_mineradora"
 include(":app")
-apply(from: file("../.flutter-plugins-dependencies"))
